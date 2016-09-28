@@ -2,8 +2,10 @@
 
 <h2> Como utilizar o github com o Unity </h2>
 <p> <b> Importante: </b> Não mexer na mesma scene ao mesmo tempo com outra pessoa! </p>
-<p> Desenvolver/colocar tudo que necessário dentro das pastas em Asseets </p>
-<p> Caso você deseje fazer testes, scripts diferenciados ou qualquer outra coisas que não deva ir para o projeto final, vá ate Assets/testes-pessoais/pasta-com-seu-nome e adicione o que desejar. (Ela vai ser ignorada pelo git, então qualquer coisa que você fizer nela, ficará só para você </p>
+<p> Desenvolver/colocar tudo que necessário dentro das pastas em Assets </p>
+<p> Colocar os arquivos pessoais (testes) em Assets/testes-pessoais/seu-nome. Caso não tenha, crie uma pasta com o seu nome. </p>
+<p> Scenes: Assets/Scenes </p>
+<p> Scripts: Assets/Scripts </p>
 
 <h2> Git workflow </h2>
 <p> > Desenvolva sua parte no projeto usando o <b> develop </b> branch. </p>
